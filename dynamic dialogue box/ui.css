@@ -1,0 +1,20 @@
+* {
+  /* background-color: rgb(39, 54, 53);
+  color: rgb(255, 246, 221); */
+  font-size: 16px;
+  margin: 0;
+  font-family: "Fixedsys";
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+@font-face {
+  font-family: "Fixedsys";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Fixedsys"), url("./fonts/FSEX300.woff") format("woff");
+}
+
+canvas {
+  background-color: rgb(0, 0, 0);
+}
